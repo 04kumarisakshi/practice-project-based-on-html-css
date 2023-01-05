@@ -1,0 +1,42 @@
+*
+{
+   margin: 0px;
+    padding: 0px;
+}
+.main{
+    display: block;
+    
+    border-color: black;
+    background: linear-gradient(rgb(186, 129, 129),rgb(207, 179, 179));
+    padding: 40px;
+    font-size: 1.4em;
+}
+.top
+{
+   padding-left: 40%;
+   padding-bottom: 40px;
+}
+
+.top h2{
+    padding: 2px;
+}
+.movies{
+    display: flex;
+    gap: 15px;
+   
+}
+
+button{
+    width: 300px;
+ padding:30px;
+ background-color: rgb(186, 129, 129);
+ text-align: left;
+ cursor: pointer;
+ 
+}
+footer{
+    background-color: black;
+    color: aliceblue;
+    padding-left: 40%;
+    height: 40px;
+}
